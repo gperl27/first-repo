@@ -1,0 +1,12 @@
+greg@greg-XPS-13-9343:~/Documents/Ironhack/Sections/Intro/git-practice$ git diff
+diff --git a/three_doors.txt b/three_doors.txt
+index b3ebb5d..23c86b7 100644
+--- a/three_doors.txt
++++ b/three_doors.txt
+@@ -2,4 +2,4 @@ You are in a room with three doors.
+ 
+ Which door will you go through?
+ 
+-Choose Door 3
++Choose Door 1
+
