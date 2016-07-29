@@ -10,3 +10,4 @@ index b3ebb5d..23c86b7 100644
 -Choose Door 3
 +Choose Door 1
 
+A baby elephant is behind Door 1.
